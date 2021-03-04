@@ -14,6 +14,8 @@ public class main {
         lista1.add(1);
         lista1.add(1);
         lista1.add(1);
+		
+		lista1.add(2);
 
 
         lista1.delete(1);
